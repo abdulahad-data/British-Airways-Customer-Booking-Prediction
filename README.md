@@ -1,7 +1,7 @@
 # British Airways: Predictive Modeling & Customer Sentiment Analysis
 
 ## 📌 Objective
-This repository contains a data science simulation executed for British Airways via Forage. The objective was to scrape and analyze customer feedback, and subsequently build a predictive machine learning model to forecast customer booking behavior, enabling targeted marketing resource allocation.
+This repository contains a data science simulation executed for British Airways via Forage. The objective was to build a predictive machine learning model to forecast customer booking behavior, enabling targeted marketing resource allocation.
 
 ## ⚙️ Tech Stack
 * **Language:** Python
